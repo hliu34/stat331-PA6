@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Chris, Chris, Danny, Soren
+author: Chrissyt, Chris, Danny, Soren
 format: html
 editor: visual
 embed-resources: true

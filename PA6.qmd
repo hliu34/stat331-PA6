@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Chrissytt, Chris, Danny, Soren
+author: "Haoxian Liu, Chris Yang, Chris Liu, Soren Fliegel"
 format: html
 editor: visual
 embed-resources: true

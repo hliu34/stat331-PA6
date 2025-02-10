@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Haoxian Liu, Chris Yang, Chris Liu, Soren Fliegel"
 format: html
 editor: visual
 embed-resources: true
